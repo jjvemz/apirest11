@@ -30,6 +30,10 @@ y para comprobar que este corriendo:
 ```
 docker ps
 ```
+De ser necesario, para crear redes y escalar este servidor es posible usar el comando 
+```
+docker-compose up
+```
 ## UML
 
 La comunicación entre el servidor y la API Rest se genera de esta forma
